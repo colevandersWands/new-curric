@@ -1,5 +1,5 @@
 whole curriculum:
-	a series of projects gitbook - frontend, express, react
+	a series of projects (not gitbook) - frontend, express, react
 		- fully open source
 	 	projects to be built in order
 	 	completed asynchronously at student's own paces
@@ -21,12 +21,10 @@ whole curriculum:
 
 -------------------------------------  projects  ------------------------------------
 
-gitbook projects:
-	folders are steps
-	folders contain project files
-	files are single projects, see below
+projects: - a repository of projects.
+	all of them in a row
 
-a project file:
+a project's readme:
 	principle to learn in this project
 	link to boiled down finished code.  ie
 		just enough to do a hello world built with the principle
@@ -37,7 +35,7 @@ a project file:
 
 parallel content gitbooks:
 	organized by topic
-	within topic - resources, series of exercises, ...
+	within topic - resources, series of exercises, assessment...
 	from beginner to advanced within each topic
 
 ------------------------------------  calendar  ------------------------------------
